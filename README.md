@@ -27,7 +27,7 @@ Virusware is a Python-based malware that demonstrates virus-like behavior, evasi
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.12.1 or higher
 - Required Python libraries: tkinter, requests, cryptography, flask
 
 ### Important Note
